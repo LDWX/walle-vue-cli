@@ -27,11 +27,11 @@ export default {
   }
 }
 </script>
-<style lang="scss">
-.wrapper {
-  font-size: 40px;
-  .title {
-    color: red;
-  }
-}
-</style>
+// <style lang="scss">
+// .wrapper {
+//   font-size: 40px;
+//   .title {
+//     color: red;
+//   }
+// }
+// </style>
