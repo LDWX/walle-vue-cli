@@ -41,6 +41,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.7.7",
+    "echarts": "^4.6.0",
     "lodash": "^4.17.15",
     "vue": "^2.6.11"
   }
