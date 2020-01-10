@@ -10,6 +10,7 @@
   </div>
 </template>
 <script>
+import dataC from './data.csv'
 export default {
   data() {
     return {
@@ -24,6 +25,7 @@ export default {
   },
   mounted() {
     this.print()
+    console.log("data: ", dataC)
   }
 }
 </script>
